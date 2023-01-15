@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f68feae.css",
+    "main.js": "/static/js/main.098a6f0a.js",
+    "static/media/gothampro_bold.ttf": "/static/media/gothampro_bold.764ba13de4409a990823.ttf",
+    "static/media/gothampro_light.ttf": "/static/media/gothampro_light.dfbba8c980f43420d2d1.ttf",
+    "static/media/gothampro_medium.ttf": "/static/media/gothampro_medium.dca4b95d345c2abd8661.ttf",
+    "static/media/gothampro.ttf": "/static/media/gothampro.4f71921a0823129cd8ba.ttf",
+    "static/media/gothampro_black.ttf": "/static/media/gothampro_black.8c2f478dfa880e2de0a1.ttf",
+    "index.html": "/index.html",
+    "main.1f68feae.css.map": "/static/css/main.1f68feae.css.map",
+    "main.098a6f0a.js.map": "/static/js/main.098a6f0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f68feae.css",
+    "static/js/main.098a6f0a.js"
+  ]
+}
