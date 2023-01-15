@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f68feae.css",
-    "main.js": "/static/js/main.c5c43858.js",
-    "static/media/gothampro_bold.ttf": "/static/media/gothampro_bold.764ba13de4409a990823.ttf",
-    "static/media/gothampro_light.ttf": "/static/media/gothampro_light.dfbba8c980f43420d2d1.ttf",
-    "static/media/gothampro_medium.ttf": "/static/media/gothampro_medium.dca4b95d345c2abd8661.ttf",
-    "static/media/gothampro.ttf": "/static/media/gothampro.4f71921a0823129cd8ba.ttf",
-    "static/media/gothampro_black.ttf": "/static/media/gothampro_black.8c2f478dfa880e2de0a1.ttf",
-    "index.html": "/index.html",
-    "main.1f68feae.css.map": "/static/css/main.1f68feae.css.map",
-    "main.c5c43858.js.map": "/static/js/main.c5c43858.js.map"
+    "main.css": "/freezing-blood-frontend-build/static/css/main.f135e4ad.css",
+    "main.js": "/freezing-blood-frontend-build/static/js/main.2e058e27.js",
+    "static/media/gothampro_bold.ttf": "/freezing-blood-frontend-build/static/media/gothampro_bold.764ba13de4409a990823.ttf",
+    "static/media/gothampro_light.ttf": "/freezing-blood-frontend-build/static/media/gothampro_light.dfbba8c980f43420d2d1.ttf",
+    "static/media/gothampro_medium.ttf": "/freezing-blood-frontend-build/static/media/gothampro_medium.dca4b95d345c2abd8661.ttf",
+    "static/media/gothampro.ttf": "/freezing-blood-frontend-build/static/media/gothampro.4f71921a0823129cd8ba.ttf",
+    "static/media/gothampro_black.ttf": "/freezing-blood-frontend-build/static/media/gothampro_black.8c2f478dfa880e2de0a1.ttf",
+    "index.html": "/freezing-blood-frontend-build/index.html",
+    "main.f135e4ad.css.map": "/freezing-blood-frontend-build/static/css/main.f135e4ad.css.map",
+    "main.2e058e27.js.map": "/freezing-blood-frontend-build/static/js/main.2e058e27.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f68feae.css",
-    "static/js/main.c5c43858.js"
+    "static/css/main.f135e4ad.css",
+    "static/js/main.2e058e27.js"
   ]
 }
