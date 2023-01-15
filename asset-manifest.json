@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/freezing-blood-forntend-build/static/css/main.e6d945f8.css",
-    "main.js": "/freezing-blood-forntend-build/static/js/main.60a01570.js",
-    "static/media/gothampro_bold.ttf": "/freezing-blood-forntend-build/static/media/gothampro_bold.764ba13de4409a990823.ttf",
-    "static/media/gothampro_light.ttf": "/freezing-blood-forntend-build/static/media/gothampro_light.dfbba8c980f43420d2d1.ttf",
-    "static/media/gothampro_medium.ttf": "/freezing-blood-forntend-build/static/media/gothampro_medium.dca4b95d345c2abd8661.ttf",
-    "static/media/gothampro.ttf": "/freezing-blood-forntend-build/static/media/gothampro.4f71921a0823129cd8ba.ttf",
-    "static/media/gothampro_black.ttf": "/freezing-blood-forntend-build/static/media/gothampro_black.8c2f478dfa880e2de0a1.ttf",
-    "index.html": "/freezing-blood-forntend-build/index.html",
-    "main.e6d945f8.css.map": "/freezing-blood-forntend-build/static/css/main.e6d945f8.css.map",
-    "main.60a01570.js.map": "/freezing-blood-forntend-build/static/js/main.60a01570.js.map"
+    "main.css": "/freezing-blood-frontend-build/static/css/main.f135e4ad.css",
+    "main.js": "/freezing-blood-frontend-build/static/js/main.34d31994.js",
+    "static/media/gothampro_bold.ttf": "/freezing-blood-frontend-build/static/media/gothampro_bold.764ba13de4409a990823.ttf",
+    "static/media/gothampro_light.ttf": "/freezing-blood-frontend-build/static/media/gothampro_light.dfbba8c980f43420d2d1.ttf",
+    "static/media/gothampro_medium.ttf": "/freezing-blood-frontend-build/static/media/gothampro_medium.dca4b95d345c2abd8661.ttf",
+    "static/media/gothampro.ttf": "/freezing-blood-frontend-build/static/media/gothampro.4f71921a0823129cd8ba.ttf",
+    "static/media/gothampro_black.ttf": "/freezing-blood-frontend-build/static/media/gothampro_black.8c2f478dfa880e2de0a1.ttf",
+    "index.html": "/freezing-blood-frontend-build/index.html",
+    "main.f135e4ad.css.map": "/freezing-blood-frontend-build/static/css/main.f135e4ad.css.map",
+    "main.34d31994.js.map": "/freezing-blood-frontend-build/static/js/main.34d31994.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6d945f8.css",
-    "static/js/main.60a01570.js"
+    "static/css/main.f135e4ad.css",
+    "static/js/main.34d31994.js"
   ]
 }
