@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://showhim.github.io/freezing-blood-frontend-build/static/css/main.591a0ed6.css",
-    "main.js": "https://showhim.github.io/freezing-blood-frontend-build/static/js/main.181e3372.js",
+    "main.js": "https://showhim.github.io/freezing-blood-frontend-build/static/js/main.dcfea1d7.js",
     "static/media/gothampro_bold.ttf": "https://showhim.github.io/freezing-blood-frontend-build/static/media/gothampro_bold.764ba13de4409a990823.ttf",
     "static/media/gothampro_light.ttf": "https://showhim.github.io/freezing-blood-frontend-build/static/media/gothampro_light.dfbba8c980f43420d2d1.ttf",
     "static/media/gothampro_medium.ttf": "https://showhim.github.io/freezing-blood-frontend-build/static/media/gothampro_medium.dca4b95d345c2abd8661.ttf",
@@ -9,10 +9,10 @@
     "static/media/gothampro_black.ttf": "https://showhim.github.io/freezing-blood-frontend-build/static/media/gothampro_black.8c2f478dfa880e2de0a1.ttf",
     "index.html": "https://showhim.github.io/freezing-blood-frontend-build/index.html",
     "main.591a0ed6.css.map": "https://showhim.github.io/freezing-blood-frontend-build/static/css/main.591a0ed6.css.map",
-    "main.181e3372.js.map": "https://showhim.github.io/freezing-blood-frontend-build/static/js/main.181e3372.js.map"
+    "main.dcfea1d7.js.map": "https://showhim.github.io/freezing-blood-frontend-build/static/js/main.dcfea1d7.js.map"
   },
   "entrypoints": [
     "static/css/main.591a0ed6.css",
-    "static/js/main.181e3372.js"
+    "static/js/main.dcfea1d7.js"
   ]
 }
